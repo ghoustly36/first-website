@@ -1,2 +1,2 @@
 # first-website
-this was a website for me to keep adding websites to so i can keep track of them
+on this website there is  websites that i think are cool and i want to keep track. Built it with vscode and html
